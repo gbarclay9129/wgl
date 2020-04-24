@@ -1,3 +1,4 @@
+inserted line1
 this is 
 my first
 git text file
